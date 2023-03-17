@@ -1,9 +1,10 @@
 TenderBid The Ultimate Bidding Strategy
 
 Team Members: 
-	Khansa Junaid 23074 (Leader)
-	Muhammad Sumair 22995
-	Usman Ahmed Tirmizi 22888
+
+1.Khansa Junaid 23074 
+2.Muhammad Sumair 22995
+3.Usman Ahmed Tirmizi 22888
  
 Problem statement:  
 We are on the mission of resolving a crisis for a lot of small and medium enterprises, who are looking for contractors with the least price and best quality. This platform aims to find contractors who have applied to the companies and help them understand the process and make the transition smooth. This platform is the best place where we can gather all contractors who bid on the project set by the company. 
