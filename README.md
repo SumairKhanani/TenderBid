@@ -2,8 +2,10 @@ TenderBid The Ultimate Bidding Strategy
 
 Team Members: 
 
-1.Khansa Junaid 23074 
+1.Khansa Junaid 23074
+
 2.Muhammad Sumair 22995
+
 3.Usman Ahmed Tirmizi 22888
  
 Problem statement:  
